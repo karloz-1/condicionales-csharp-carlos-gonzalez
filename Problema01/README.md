@@ -1,9 +1,9 @@
-# Problema 01 - 
+# Problema 01 - Registro electoral
 
-*Estructura elegida:* 
+*Estructura elegida:* If - Else tradicional
 
-*Justificación:* 
+*Justificación:* Usé esta estructura ya que solo es comparar una sola condición sin más casos.
 
 *Evidencia:*
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/dms_capture_1792615288045.png)
