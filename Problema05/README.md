@@ -1,9 +1,9 @@
-# Problema 05 - 
+# Problema 05 - El mayor de dos números
 
-*Estructura elegida:* 
+**Estructura elegida:** if else
 
-*Justificación:* 
+**Justificación:** Ya que es solo comparar un dato y aplicarle un valor a una variable
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/dms_capture_1792619593398.png)
