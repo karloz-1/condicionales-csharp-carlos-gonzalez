@@ -1,9 +1,9 @@
 # Problema 03 - 
 
-*Estructura elegida:* 
+**Estructura elegida:** switch tradicional
 
-*Justificación:* 
+**Justificación:** Los casos que les paso son datos exactos, no son rangos ni nada parecido, además no debo de asignar el resultado a una variable.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/dms_capture_1792618060290.png)
