@@ -1,9 +1,9 @@
-# Problema 04 - 
+# Problema 04 - Alerta de batería
 
-*Estructura elegida:* 
+**Estructura elegida:** if - else
 
-*Justificación:* 
+**Justificación:** Ya que es solo comparar una sola condición.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/dms_capture_1792619111524.png)
