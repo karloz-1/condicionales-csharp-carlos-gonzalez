@@ -1,9 +1,9 @@
-# Problema 07 - 
+# Problema 07 - Problema 7. Signo de un número
 
-*Estructura elegida:* 
+**Estructura elegida:** if else if
 
-*Justificación:* 
+**Justificación:** Solo era comparar 3 veces un numero, con comparaciones simples.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/dms_capture_1792641333872.png)
