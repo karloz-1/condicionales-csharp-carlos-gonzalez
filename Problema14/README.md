@@ -1,9 +1,9 @@
 # Problema 14 - Estado del aprendiz
 
-**Estructura elegida:** Operador Ternario (expr ? true : false)
+**Estructura elegida:** Operador Ternario
 
-**Justificación:** El problema pedía específicamente "con una sola línea de asignación", y el operador ternario es la forma más adecuada de expresar una condición simple en una sola línea. Cumple el requisito de manera directa y legible.
+**Justificación:** Se utiliza el operador ternario ya que permite realizar la asignación condicional en una sola línea, cumpliendo con el requerimiento de simplicidad.
 
 **Evidencia:**
 
-![Salida](evidencias/dms_capture.png)
+![Salida](evidencias/placeholder.png)
