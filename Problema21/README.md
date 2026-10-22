@@ -1,9 +1,9 @@
-# Problema 21 - 
+# Problema 21 - Carrito de compras
 
-*Estructura elegida:* 
+**Estructura elegida:** Operador Ternario
 
-*Justificación:* 
+**Justificación:** Se utiliza el operador ternario para definir dinámicamente si la palabra debe estar en singular o plural dentro de la cadena de texto, permitiendo realizarlo en una sola línea de asignación.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/placeholder.png)
