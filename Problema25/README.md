@@ -1,9 +1,9 @@
-# Problema 25 - 
+# Problema 25 - Calidad del aire
 
-*Estructura elegida:* 
+**Estructura elegida:** If - Else If - Else
 
-*Justificación:* 
+**Justificación:** Se utiliza esta estructura para evaluar rangos numéricos consecutivos del ICA y asignar la categoría correspondiente de forma clara y lógica.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/placeholder.png)
