@@ -1,9 +1,9 @@
-# Problema 17 - 
+# Problema 17 - Control de un reproductor
 
-*Estructura elegida:* 
+**Estructura elegida:** Switch
 
-*Justificación:* 
+**Justificación:** Se utiliza `switch` para evaluar un comando de texto contra múltiples opciones posibles de forma clara y organizada.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/placeholder.png)
