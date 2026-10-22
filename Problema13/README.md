@@ -1,9 +1,9 @@
-# Problema 13 - 
+# Problema 13 - Códigos de país
 
-*Estructura elegida:* 
+**Estructura elegida:** Switch Expression
 
-*Justificación:* 
+**Justificación:** Usé una expresión switch para mapear cada código de país de dos letras a su nombre completo. Este enfoque es limpio y directo para un mapeo de valores exactos.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/dms_capture.png)
