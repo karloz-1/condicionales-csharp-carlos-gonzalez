@@ -1,9 +1,9 @@
 # Problema 12 - Aprobación de crédito
 
-**Estructura elegida:** If - Else anidada
+**Estructura elegida:** If - Else anidado
 
-**Justificación:** Usé esta estructura para verificar primero si el solicitante tiene empleo, y luego dentro del caso positivo, verificar el ingreso mensual para determinar el tipo de crédito. Es una aproximación directa que sigue el flujo lógico del problema.
+**Justificación:** Se utiliza esta estructura para realizar una verificación de dos niveles: primero el estado laboral y luego el nivel de ingresos.
 
 **Evidencia:**
 
-![Salida](evidencias/dms_capture.png)
+![Salida](evidencias/placeholder.png)
