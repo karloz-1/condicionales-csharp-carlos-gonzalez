@@ -1,9 +1,9 @@
-# Problema 29 - 
+# Problema 29 - Control de acceso a la sede
 
-*Estructura elegida:* 
+**Estructura elegida:** Switch - If
 
-*Justificación:* 
+**Justificación:** Se utiliza `switch` para evaluar el rol y determinar la lógica de acceso basada en la hora, y un `if` final para imprimir el resultado.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/placeholder.png)
