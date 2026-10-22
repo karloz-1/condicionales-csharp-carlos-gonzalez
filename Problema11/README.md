@@ -1,9 +1,9 @@
 # Problema 11 - Semáforo inteligente
 
-**Estructura elegida:** Switch Expression
+**Estructura elegida:** Switch
 
-**Justificación:** Usé una expresión switch para mapear cada estado del semáforo a su mensaje correspondiente. Esta estructura es concisa y apropiada para mapear un valor de entrada a una salida única.
+**Justificación:** Se utiliza un `switch` porque es la forma más clara y directa de evaluar una variable contra múltiples casos fijos.
 
 **Evidencia:**
 
-![Salida](evidencias/dms_capture.png)
+![Salida](evidencias/placeholder.png)
