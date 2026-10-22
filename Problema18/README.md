@@ -1,9 +1,9 @@
-# Problema 18 - 
+# Problema 18 - Montaña rusa
 
-*Estructura elegida:* 
+**Estructura elegida:** If - Else
 
-*Justificación:* 
+**Justificación:** Se utiliza una estructura condicional lógica compleja en el `if` para evaluar todas las reglas de negocio (estatura, edad y acompañante) simultáneamente.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/placeholder.png)
