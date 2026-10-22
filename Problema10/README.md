@@ -1,9 +1,9 @@
 # Problema 10 - Analizador de datos recibidos
 
-**Estructura elegida:** If - Else con patrones `is`
+**Estructura elegida:** If - Else If - Else
 
-**Justificación:** Usé esta estructura para verificar el tipo del objeto usando el patrón `is`, lo cual es directo y fácil de seguir para un estudiante principiante.
+**Justificación:** Se utiliza esta estructura para evaluar diferentes tipos de datos del objeto y ejecutar el código correspondiente según el tipo encontrado.
 
 **Evidencia:**
 
-![Salida](evidencias/dms_capture.png)
+![Salida](evidencias/placeholder.png)
