@@ -1,9 +1,9 @@
-# Problema 20 - 
+# Problema 20 - Días de cada mes
 
-*Estructura elegida:* 
+**Estructura elegida:** Switch
 
-*Justificación:* 
+**Justificación:** Se utiliza `switch` con casos múltiples para agrupar los meses según la cantidad de días que poseen, lo cual hace el código limpio y eficiente.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/placeholder.png)
