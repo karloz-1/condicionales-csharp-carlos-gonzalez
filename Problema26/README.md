@@ -1,9 +1,9 @@
-# Problema 26 - 
+# Problema 26 - Peaje
 
-*Estructura elegida:* 
+**Estructura elegida:** Switch
 
-*Justificación:* 
+**Justificación:** Se utiliza `switch` para evaluar el tipo de vehículo y asignar la tarifa correspondiente, lanzando una excepción si la categoría no es reconocida, cumpliendo con los requisitos del problema.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/placeholder.png)
