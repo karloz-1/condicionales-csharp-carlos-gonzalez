@@ -1,9 +1,9 @@
-# Problema 09 - 
+# Problema 09 - Año bisiesto
 
-*Estructura elegida:* 
+**Estructura elegida:** if else
 
-*Justificación:* 
+**Justificación:** Por que se hace una estructura de comparación un poco más compleja y por que no tengo que guardar el dato que arroja en una variable.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/dms_capture_1792642921160.png)
