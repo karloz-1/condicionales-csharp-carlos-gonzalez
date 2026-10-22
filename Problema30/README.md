@@ -1,9 +1,9 @@
-# Problema 30 - 
+# Problema 30 - Boletín de calificaciones (integrador)
 
-*Estructura elegida:* 
+**Estructura elegida:** If - Else If
 
-*Justificación:* 
+**Justificación:** Se utiliza para evaluar los rangos del promedio y asignar la letra, el mensaje de retroalimentación y el estado de forma clara y lógica, integrando múltiples condiciones.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/placeholder.png)
