@@ -6,4 +6,4 @@
 
 **Evidencia:**
 
-![Salida](evidencias/placeholder.png)
+![Salida](evidencias/dms_capture_1792704894946.png)
