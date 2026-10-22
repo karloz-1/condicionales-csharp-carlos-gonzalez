@@ -1,9 +1,9 @@
-# Problema 06 - 
+# Problema 06 - Piedra, papel o tijera
 
-*Estructura elegida:* 
+**Estructura elegida:** if else
 
-*Justificación:* 
+**Justificación:** me resultó la forma más sencilla de comprar un resultado con otro para elegir un ganador
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/dms_capture_1792640482337.png)
