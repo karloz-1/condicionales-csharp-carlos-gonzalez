@@ -1,9 +1,9 @@
-# Problema 27 - 
+# Problema 27 - Taquilla de cine
 
-*Estructura elegida:* 
+**Estructura elegida:** If - Else If
 
-*Justificación:* 
+**Justificación:** Se utiliza para evaluar combinaciones complejas de condiciones (día y condición de estudiante) de manera clara.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/placeholder.png)
