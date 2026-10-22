@@ -1,9 +1,9 @@
-# Problema 08 - 
+# Problema 08 - Vocal o consonante
 
-*Estructura elegida:* 
+**Estructura elegida:** switch expression
 
-*Justificación:* 
+**Justificación:** Ofrece una gran utilidad para comparar grandes volumenes de letras sin escribirlas una a una
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/dms_capture_1792642133014.png)
