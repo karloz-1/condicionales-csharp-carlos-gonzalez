@@ -1,9 +1,9 @@
-# Problema 16 - 
+# Problema 16 - Ubicación de un dron
 
-*Estructura elegida:* 
+**Estructura elegida:** If - Else If - Else
 
-*Justificación:* 
+**Justificación:** Se utiliza esta estructura para evaluar las múltiples condiciones posibles (ejes, origen y cuadrantes) de forma secuencial y ordenada.
 
-*Evidencia:*
+**Evidencia:**
 
-![Salida](evidencias/dms.png)
+![Salida](evidencias/placeholder.png)
